@@ -4,7 +4,9 @@ The International Journal of Emerging Science and Engineering (IJESE) has ISSN: 
 The aim of the journal is to publish high quality peer–reviewed original articles in the area of Science, Engineering and Technology that covers Computer Science and Engineering, Information Technology, Electrical and Electronics Engineering, Electronics and Telecommunication, Mechanical Engineering, Civil Engineering and all interdisciplinary streams of Science, Engineering and Technology.
 
 **Imprint**
+
 **Full Journal Title:** International Journal of Emerging Science and Engineering (IJESE)
+
 **ISSN:** 2319-6378 (Online)
 
 **Publisher:** Blue Eyes Intelligence Engineering and Sciences Publication (BEIESP)
