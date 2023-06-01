@@ -5,7 +5,6 @@ The aim of the journal is to publish high quality peer–reviewed original artic
 
 **Imprint**
 **Full Journal Title:** International Journal of Emerging Science and Engineering (IJESE)
-
 **ISSN:** 2319-6378 (Online)
 
 **Publisher:** Blue Eyes Intelligence Engineering and Sciences Publication (BEIESP)
